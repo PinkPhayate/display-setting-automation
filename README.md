@@ -1,5 +1,6 @@
 # DisplaySettingAutomation
-macOSのlaunchdという仕組みを利用して、USB portへの接続を検知して、「システム環境」のディスプレイ設定画面を自動で開く
+macOSのlaunchdという仕組みを利用して、USB portへの接続を検知して、「システム環境」のディスプレイ設定画面を自動で開く  
+![outline.png](https://github.com/user-attachments/assets/2a6a33eb-a1f4-4398-af7f-07f49f983900)
 
 ## Environment
 macOS Sequoia 15.1
